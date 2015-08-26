@@ -1,3 +1,9 @@
+body {
+  background-image: url(../images/grosMenteur.jpg);
+  #background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 100 100; }
+
 /**
  * Reset some basic elements
  */
