@@ -10,4 +10,3 @@ categories: jekyll update
 title="Une première photo, avant travaux" class="img">
 
 
-
