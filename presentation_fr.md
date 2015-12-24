@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Présentation
+title: Le gîte
 permalink: /presentation/
+link: presentation
+lang: fr
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Votre gîte 8 personnes à Evres dans quelques mois!!!"
+title:  "Your flat in a few months!!!"
 date:   2015-12-21 09:38:43
+link: welcome
+lang: en
 categories: jekyll update
 ---
 

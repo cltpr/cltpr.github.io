@@ -1,16 +1,16 @@
 ---
 layout: default
 link: index
-lang: fr
+lang: en
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Articles</h1>
+  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-{% assign posts=site.posts | where:"lang", page.lang %}    
-{% for post in posts %}
+{% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -21,6 +21,6 @@ lang: fr
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">suivre le <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
