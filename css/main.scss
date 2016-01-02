@@ -5,11 +5,13 @@
 
 body {
 color:white;
-background-repeat: no-repeat;
+#background-repeat: no-repeat;
 background-color: green;
 background-image:url(/images/eglise.jpeg);
-}
+padding: 0;
+margin: 0;
 
+}
 
 
 header {
