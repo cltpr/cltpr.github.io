@@ -5,26 +5,60 @@
 
 body {
 color:white;
-#background-repeat: no-repeat;
 background-color: green;
-background-image:url(/images/eglise.jpeg);
-padding: 0;
-margin: 0;
-
+background-image:url(/images/fond.png);
+background-size : cover;
+background-attachment: fixed;
 }
+
+
+#titre {
+    text-transform: uppercase;
+    font-size: 56px;
+    text-align: center;
+    color: white;
+    border-top: groove;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#logo {
+#display : inline-block;
+margin-right: 8px;
+margin-left: 8px;
+margin-top: 10px;
+margin-bottom: 14px;
+}
+
 
 
 header {
 background-position:center;
 background-repeat: no-repeat;
-background-image:url(/images/photoCouverture.jpg);
+background-image:url(/images/eglise.jepg);
 }
 footer {
 background-position:center;
 background-repeat: no-repeat;
-background-image:url(/images/photoCouverture.jpg);
+background-image:url(/images/eglise.jpeg);
+}
+.page-content {
+background-position: center;
+background-color : white;
+#width : 800px;
+
 }
 
+#blason{
+    position:absolute;
+    top:230px;
+    left:50%;
+    margin-left:-720px;
+}
+
+.pastille img{
+    max-height:200px;
+}
 
 
 // Our variables
@@ -35,7 +69,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       white;
+$text-color:       black;
 $background-color: green;
 $brand-color:      #2a7ae2;
 

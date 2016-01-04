@@ -23,7 +23,7 @@ Notre maison est énorme (450 mètres carrés au sol), c'est un ancien corps de 
 
 Vous venez de Paris ou d'ailleurs en TGV? La gare est à dix minutes, nous viendrons vous chercher et vous reconduirons avec plaisir, en utilisant le service blablacar.com. Une location d'une de nos deux voitures est aussi possible par le site drivy.com si vous voulez.
 
-Passionnés de rencontres et d'échanges, nous sommes près à vous accueillir et à vous faire partager nos centres d'intérêt.
+Passionnés de rencontres et d'échanges, nous sommes prèts à vous accueillir et à vous faire partager nos centres d'intérêt.
 
 Et si vous préférez être tranquilles, nous saurons... disparaître...
 
