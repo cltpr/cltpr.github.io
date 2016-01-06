@@ -2,13 +2,18 @@
 
 
 
-
   <div class="wrapper">
 
 
 <a id="titre" class="site-title" href="{{ site.baseurl }}/{{ site.index }}">{{ site.title}}</a>
 <a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a>
 
+<div class="wrapper" style="text-align: right; line-height: 2em;font-size:30px;text-color:white">
+{% assign posts=site.posts | where:"link", page.link | sort: 'lang' %}
+{% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+{% assign pages=site.pages | where:"link", page.link | sort: 'lang' %}
+{% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+</div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -30,14 +35,6 @@
     </nav>
 
   </div>
-
 </header>
 
 
-<div class="wrapper" style="text-align: right; line-height: 2em">
-{% assign posts=site.posts | where:"link", page.link | sort: 'lang' %}
-{% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
-
-{% assign pages=site.pages | where:"link", page.link | sort: 'lang' %}
-{% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
-</div>

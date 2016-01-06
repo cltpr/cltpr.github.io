@@ -40,11 +40,11 @@ background-image:url(/images/eglise.jepg);
 footer {
 background-position:center;
 background-repeat: no-repeat;
-background-image:url(/images/eglise.jpeg);
+#background-image:url(/images/eglise.jpeg);
 }
 .page-content {
-background-position: center;
-background-color : white;
+#background-position: center;
+#background-color : white;
 #width : 800px;
 
 }
@@ -71,10 +71,11 @@ $spacing-unit:     30px;
 
 $text-color:       black;
 $background-color: green;
-$brand-color:      #2a7ae2;
+$brand-color:      white;
+//#2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color,40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
