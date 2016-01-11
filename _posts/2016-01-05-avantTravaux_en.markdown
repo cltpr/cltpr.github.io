@@ -35,7 +35,7 @@ The old chimney. Even if we can't do fire inside any more (we have a big wood bo
 
 
 
-The entrance door, which is MENER on the terrace:
+The entrance door, which is opening on the terrace:
 
 
 ![](/images/Photo0196.jpg)
