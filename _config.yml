@@ -21,9 +21,9 @@ en: index_en.html
 fr:
 
 
-twitter_username: ferme-de-l-ecurieux
+twitter_username: 
 
-github_username:  e-curieux
+github_username: 
 
 # Build settings
 markdown: kramdown

@@ -6,6 +6,7 @@ link: presentation
 lang: fr
 ---
 
+PAGE EN CONSTRUCTION!!!
 
 Notre gîte est  en cours d'aménagement. Il sera disponible dès le 1er juin 2016. Vous pouvez suivre l'avancement des travaux ici.
 

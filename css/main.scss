@@ -42,11 +42,12 @@ background-position:center;
 background-repeat: no-repeat;
 #background-image:url(/images/eglise.jpeg);
 }
-.page-content {
-#background-position: center;
-#background-color : white;
-#width : 800px;
-
+#center {
+background-color : white;
+width : 800px;
+color:black;
+a:link{color:blue};
+a:hover{color:black}; /*quand on passe la souris sur un lien*/
 }
 
 #blason{
@@ -69,21 +70,21 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       black;
+$text-color:       white;
 $background-color: green;
-$brand-color:      white;
+$brand-color:      black;
 //#2a7ae2;
+
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color,40%);
 $grey-color-dark:  darken($grey-color, 25%);
-
+ 
 // Width of the content area
 $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
 
 
 // Using media queries with like this:

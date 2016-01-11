@@ -7,7 +7,7 @@ lang: fr
 categories: jekyll update
 ---
 
-<img src ="/images/photoCouverture.jpg"
+<img src ="/images/eglise.jpeg"
  align="left"  height="250"
 title="Une première photo, avant travaux" class="img">
 
