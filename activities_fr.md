@@ -17,7 +17,7 @@ Evres est situé sur un chemin de grande randonnée (le GR14). Il vous permettra
 
 - Anes Art'gonne (à 300 mètres...)
 
-Cette association installée au village est animée par une poignée de passionnés. Ils vous accueille pour des ballades avec des ânes et pour découvrir l'aniserie. Leur ferme est superbement refaite, avec même un four à pain. Des expositions sont installées dans la grange, temporaires ou permanentes (beaucoup d'art africain) et vous permettent de repartir avec certains articles. Enfin, des concerts et des spectacles sont souvent organisés le week-end.
+Cette association installée au village est animée par une poignée de passionnés. Ils vous accueillent pour des ballades avec des ânes et pour découvrir l'aniserie. Leur ferme est superbement refaite, avec même un four à pain. Des expositions sont installées dans la grange, temporaires ou permanentes (beaucoup d'art africain) et vous permettent de repartir avec certains articles. Enfin, des concerts et des spectacles sont souvent organisés le week-end.
 
 
 - Beaulieu en Argonne (à 1O minutes)

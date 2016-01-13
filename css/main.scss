@@ -6,7 +6,8 @@
 body {
 color:white;
 background-color: green;
-background-image:url(/images/fond.png);
+#background-image:url(/images/fond.png);
+background-image:url(/images/vaches.jpg);
 background-size : cover;
 background-attachment: fixed;
 }
@@ -16,7 +17,7 @@ background-attachment: fixed;
     text-transform: uppercase;
     font-size: 56px;
     text-align: center;
-    color: white;
+    color: red;
     border-top: groove;
     margin-top: 20px;
     padding-top: 20px;
@@ -45,7 +46,7 @@ background-repeat: no-repeat;
 #center {
 background-color : white;
 width : 800px;
-color:black;
+color:blue;
 a:link{color:blue};
 a:hover{color:black}; /*quand on passe la souris sur un lien*/
 }
@@ -70,7 +71,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       white;
+$text-color:       green;
 $background-color: green;
 $brand-color:      black;
 //#2a7ae2;
