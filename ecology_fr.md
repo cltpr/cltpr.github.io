@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Démarche écologique
-permalink: /ecology/
 link: ecology
 lang: fr
 ---
@@ -15,7 +14,7 @@ Chez nous, vous ferez un séjour éco-responsable. Nous faisons tout pour respec
 - notre électricité vient d'un fournisseur d'énergie renouvelable (enercoop)
 
 
-- la maison est chauffée principalement au bois, ainsi que notre eau chaude. Les tas de bois vous tiendront compagnie dans le jardin.
+- la maison est chauffée  au bois, ainsi que notre eau chaude.
 
 
 - nous utilisons des toilettes sèches. Si vous ne connnaissez pas ce système, c'est l'occasion de le découvrir... On s'occupe de tout... Pour vous convaincre, allez voir ce site: eautarcie.com

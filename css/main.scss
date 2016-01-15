@@ -31,6 +31,10 @@ margin-top: 10px;
 margin-bottom: 14px;
 }
 
+.footer-col{
+color: white;
+a:link{color:white};
+}
 
 
 header {
@@ -47,7 +51,7 @@ background-repeat: no-repeat;
 background-color : white;
 width : 800px;
 color:blue;
-a:link{color:blue};
+a:link{color:black};
 a:hover{color:black}; /*quand on passe la souris sur un lien*/
 }
 

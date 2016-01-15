@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: Leisure
 link: activities
 lang: en
 ---
 
+Here are our favorite restaurants: [here](/resto_en.html)
 
 Permanently:
 
@@ -12,4 +13,4 @@ Permanently:
 - The hiking or mountain biking
 
 
-Everest is located on a hiking trail (the GR14). It will allow you to access the Argonne massif, which is a paradise for hikers and nature lovers calm. If you are bikers, we will provide enough clean your mounts ...
+Evres is located on a hiking trail (the GR14). It will allow you to access the Argonne massif, which is a paradise for hikers, nature and calm lovers. If you are bikers, we will provide everything you need to clean your bikes ...
