@@ -8,7 +8,11 @@ lang: fr
 Nos restaurants préférés (attention, toujours appeler avant d'y aller):
 
 
-- Le relais de la forêt (à 10 minutes, à Passavant en Argonne)
+- Le [relais de la forêt]("http://aurelaisdelaforet.fr/") (à 10 minutes, à Passavant en Argonne)
+
+
+![](/images/passavant.jpg)
+
 
 Celui là, on adore. Roselyne et Dominique sont super sympas, la cuisine est ouverte, on voit Roselyne cuisiner. Vous serez charmés par les plats collectifs en inox à l'ancienne (en brasserie), ou par la déco champêtre (au restaurant). Ils ont repris l'affaire après les parents de Roselyne, et font de l'excellente cuisine, notamment le gibier.
 

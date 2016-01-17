@@ -10,7 +10,10 @@
 
 <div class="wrapper" style="text-align: right; line-height: 2em;font-size:30px;text-color:white">
 {% assign posts=site.posts | where:"link", page.link | sort: 'lang' %}
-{% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+{% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+
+
+ {% endfor %}
 {% assign pages=site.pages | where:"link", page.link | sort: 'lang' %}
 {% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
 
