@@ -11,7 +11,7 @@ PAGE EN CONSTRUCTION!!!
 Notre gîte est  en cours d'aménagement. Il sera disponible dès le 1er juin 2016. Vous pouvez suivre l'avancement des travaux ici.
 
 
-Notre gîte peut accueillir 7 personnes, et dispose de 3 chambres. Sa grande terrasse et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
+Notre gîte peut accueillir 8 personnes, et dispose de 3 chambres. Sa grande terrasse et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
 
 
 Le séjour:

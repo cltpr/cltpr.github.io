@@ -6,7 +6,6 @@
 body {
 color:white;
 background-color: green;
-#background-image:url(/images/fond.png);
 background-image:url(/images/vaches.jpg);
 background-size : cover;
 background-attachment: fixed;
@@ -45,7 +44,6 @@ background-image:url(/images/eglise.jepg);
 footer {
 background-position:center;
 background-repeat: no-repeat;
-#background-image:url(/images/eglise.jpeg);
 }
 #center {
 background-color : white;
@@ -62,11 +60,12 @@ a:hover{color:black}; /*quand on passe la souris sur un lien*/
     margin-left:-720px;
 }
 
-#resto{
+#flag{
     position:absolute;
-    top:130px;
-    right:50%;
-    margin-right:-720px;
+    top:480px;
+    left:50%;
+    margin-left:-720px;
+    width:40px;
 }
 
 .pastille img{
@@ -83,7 +82,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       green;
-$background-color: green;
+$background-color: white;
 $brand-color:      black;
 //#2a7ae2;
 
