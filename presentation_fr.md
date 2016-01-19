@@ -20,7 +20,7 @@ Le séjour:
 La cusine:
 
 
-La terasse:
+La terrasse:
 
 
 Le jardin:

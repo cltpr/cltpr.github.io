@@ -15,15 +15,22 @@ A faire de manière permanente:
 Evres est situé sur un chemin de grande randonnée (le GR14). Il vous permettra d'accéder au massif argonnais, qui est un paradis pour les randonneurs passionnés de nature et de calme. Si vous êtes VTTistes, nous vous fournirons de quoi nettoyer vos montures...
 
 
-- Anes Art'gonne (à 300 mètres...)
+- [Anes Art'gonne (à 300 mètres...)](http://anesartgonne.free.fr/index.html)
+
+![Ballades en âne](/images/balladeAne.gif)
 
 Cette association installée au village est animée par une poignée de passionnés. Ils vous accueillent pour des ballades avec des ânes et pour découvrir l'aniserie. Leur ferme est superbement refaite, avec même un four à pain. Des expositions sont installées dans la grange, temporaires ou permanentes (beaucoup d'art africain) et vous permettent de repartir avec certains articles. Enfin, des concerts et des spectacles sont souvent organisés le week-end.
 
+![Grange d'Anes Art'gonne](/images/grangeAnes.jpeg)
 
-- Beaulieu en Argonne (à 1O minutes)
+
+- [Beaulieu en Argonne (à 1O minutes)](http://beaulieu-en-argonne.com)
+
+![Vue aérienne de Beaulieu](/images/vueAerienneBeaulieu.jpeg)
 
 Ce petit village d'Argonne veut devenir l'un des plus beaux villages de France et il le mérite bien. Une halte s'impose... Découvrez son imposant pressoir du 13ème siècle, autrefois utilisé par les moines de l'abbaye. Le panorama sur la région est très joli, si vous avez une bonne vue, vous pourrez peut être reconnaître la fenêtre de votre chambre... Pour les cyclistes et les marcheurs, attention la montée pour arriver à Beaulieu par le GR 14 est assez éprouvante...
 
+![Pressoir Beaulieu](/images/pressoirBeaulieu.jpeg)
 
 - Verdun
 
@@ -37,6 +44,7 @@ Epernay et Reims et leurs immenses caves de champagne sont à une heure de la ma
 
 - Saint Mihiel
 
+Saint Mihiel est une petite ville assez calme, assez peu peuplée mais qui mérite un passage au vu de son abbaye et d'un bon nombre de maison remarquables datant de l'époque renaissance. Tant que vous y êtes, poussez jusque Commercy pour faire le plein de madeleines!!!
 
 - Saint Rouin
 
@@ -44,6 +52,7 @@ Ancien ermitage, ce site religieux saura vous toucher, même si vous n'êtes pas
 
 
 - Bar Le Duc
+
 Cette petite ville possède un quartier Renaissance qui compte parmi les plus beaux d'Europe. Si vous aimez les belles bâtisses et les détails architecturaux, vous ne serez pas déçus. Au journées européennes du patrimoine, fin septembre, certains propriétaires ouvrent leurs demeures. C'est l'occasion de découvrir de l'intérieur ce quartier ancien. Un festival culturel annuel se déroule dans ce quartier.
 
 
@@ -62,10 +71,8 @@ Voilà une butte qui coupe le souffle. Haut lieu de la guerre 14-18, ce village 
 
 Grace à la gare Meuse TGV, à dix minutes de chez nous, vous serez au centre de Paris à 8h00 le matin (départ de Meuse TGV à 7h00). Le soir, vous pourrez prendre le train de 17h40 (arrivée à 18h40 à Meuse TGV) ou celui de 20h12 (arrivée à 21h12 à Meuse TGV). Nous pouvons assurer votre transfert du gîte à la gare. Si vous prenez votre voiture, notez que le parking est gratuit. Nous connaissons bien Paris, on vous prête un guide, et on vous conseille.
 
-
-- Une journée à Disneyland
-
-
 - Music and bike
 
+Une vraie salle de concert rock tenue à bout de bras par une association de passionnés de musique et de motos. Ambiance assurée!!!
 
+Leur page fb est [là](https://www.facebook.com/MusicAndBike)
