@@ -16,11 +16,13 @@ Chez nous, vous ferez un séjour éco-responsable. Nous faisons tout pour respec
 
 - la maison est chauffée  au bois, ainsi que notre eau chaude.
 
+- nous utilisons de la lessive à la cendre, comme nos anciens. A votre arrivée, nous vous en fournirons si vous le souhaitez, et, si vous êtes séduits, Pierre vous montrera comment en fabriquer concrétement.
 
-- nous utilisons des toilettes sèches. Si vous ne connnaissez pas ce système, c'est l'occasion de le découvrir... On s'occupe de tout... Pour vous convaincre, allez voir ce site: eautarcie.com
+
+- nous utilisons des toilettes sèches. Si vous ne connnaissez pas ce système, c'est l'occasion de le découvrir... On s'occupe de tout... Pour vous informer, allez voir [ce site]("http://www.eautarcie.org/05a.html"). Si après votre séjour chez nous vous êtes convaincus, nous vous proposons de repartir avec tout le matériel nécessaire pour en installer chez vous!!
 
 
-- nous mangeons les légumes de notre potager, les oeufs de nos poules (vous en voudrez?)
+- nous mangeons les légumes de notre potager, les oeufs de nos poules.
 
 
 - nous vous présenterons toutes les productions locales de notre coin, car consommer écolo, c'est d'abord consommer local.
