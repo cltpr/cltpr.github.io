@@ -8,7 +8,7 @@ lang: fr
 Nos restaurants préférés (attention, toujours appeler avant d'y aller):
 
 
-- Le [relais de la forêt](www.aurelaisdelaforet.fr/) (à 10 minutes, à Passavant en Argonne)
+- Le [relais de la forêt](http://www.aurelaisdelaforet.fr/) (à 10 minutes, à Passavant en Argonne)
 
 
 ![](/images/passavant.jpg)
