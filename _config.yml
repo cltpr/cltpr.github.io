@@ -2,8 +2,9 @@
 
 
 
-title: Ferme de l'Ecurieux
-
+title: 
+  fr: Ferme de l'Ecurieux
+  en: Ecurieux's farm
 
 email: contact@ferme-de-l-ecurieux.fr
 
@@ -17,8 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ferme-de-l-ecurieux.fr" # the base hostname & protocol for your site
 
 index:
-en: index_en.html
-fr:
+  en: index_en.html
+  fr: index.html
 
 
 twitter_username: 
