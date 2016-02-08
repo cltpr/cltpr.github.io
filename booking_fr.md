@@ -6,5 +6,6 @@ lang: fr
 ---
 
 
-en construction!
+Vous pouvez réserver vos séjours à compter du 1er juin 2016, dès aujourd'hui!!
 
+Pour l'instant, contactez nous par mail!!

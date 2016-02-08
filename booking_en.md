@@ -5,5 +5,9 @@ lang: en
 ---
 
 
-to build!
+Now you could book your holidays from the 1st of June!
+
+Contact us by email!!
+
+
 
