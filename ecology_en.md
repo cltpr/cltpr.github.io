@@ -5,28 +5,29 @@ link: ecology
 lang: en
 ---
 
-NOT YET TRANSLATED, SORRY!!!
+
+With us, you will make an eco-friendly stay. We do everything to respect Nature, and to share our beliefs.
 
 
-Chez nous, vous ferez un séjour éco-responsable. Nous faisons tout pour respecter Dame Nature, et pour faire partager nos convictions.
+- Our electricity comes from a renewable energy provider (Enercoop)
 
 
-- notre électricité vient d'un fournisseur d'énergie renouvelable (enercoop)
+- The house is heated with wood and our hot water too.
 
 
-- la maison est chauffée  au bois, ainsi que notre eau chaude.
-
-- nous utilisons de la lessive à la cendre, comme nos anciens. A votre arrivée, nous vous en fournirons si vous le souhaitez, et, si vous êtes séduits, Pierre vous montrera comment en fabriquer concrétement.
+- We use the laundry ashes, as our elders. On arrival, we will provide to you if you like, and if you are seduced, Pierre will show you how to make it concretely.
 
 
-- nous utilisons des toilettes sèches. Si vous ne connnaissez pas ce système, c'est l'occasion de le découvrir... On s'occupe de tout... Pour vous informer, allez voir [ce site](http://www.eautarcie.org/05a.html). Si après votre séjour chez nous vous êtes convaincus, nous vous proposons de repartir avec tout le matériel nécessaire pour en installer chez vous!!
+- We use dry toilets. If you do not know this system, it is the opportunity to discover it ... We take care of everything ... For information, go to [this site] (http://www.eautarcie.org/ 05a.html). If after your stay with us you are confident, we will provide you all the necessary equipment to install it at home !!
 
 
-- nous mangeons les légumes de notre potager, les oeufs de nos poules.
+- We eat the vegetables from our garden, eggs from our hens.
 
 
-- nous vous présenterons toutes les productions locales de notre coin, car consommer écolo, c'est d'abord consommer local.
+- We present you all the local production of our country, because ecological food is primarily local food.
 
 
-- nous avons encore plein de projets pour réduire notre nuisance à la planète, on en discutera si vous le voulez.
+- We still have plenty of projects to reduce nuisance to our planet, we will discuss it if you want.
+
+
 
