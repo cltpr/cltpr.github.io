@@ -18,7 +18,7 @@ With us, you will make an eco-friendly stay. We do everything to respect Nature,
 - We use the laundry ashes, as our elders. On arrival, we will provide to you if you like, and if you are seduced, Pierre will show you how to make it concretely.
 
 
-- We use dry toilets. If you do not know this system, it is the opportunity to discover it ... We take care of everything ... For information, go to [this site](http://www.eautarcie.org/05a.html). If after your stay with us you are confident, we will provide you all the necessary equipment to install it at home !!
+- We use dry toilets. If you do not know this system, it is the opportunity to discover it ... We take care of everything ... For information, go to<a href="http://www.eautarcie.org/05a.html" target="_blank"> this site</a>. If after your stay with us you are confident, we will provide you all the necessary equipment to install it at home !!
 
 
 - We eat the vegetables from our garden, eggs from our hens.

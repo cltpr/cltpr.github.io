@@ -18,7 +18,7 @@ Evres est situé sur un chemin de grande randonnée (le GR14). Il vous permettra
 
 La forêt argonnaise, comptant nombre de vallées et d'étangs, saura vous surprendre. On vous conseillera sur les plus belles randonnées à faire!
 
-- [Anes Art'gonne (à 300 mètres...)](http://anesartgonne.free.fr/index.html)
+-<a href="http://anesartgonne.free.fr/index.html" target="_blank">Anes Art'gonne</a> (à 300 mètres...)
 ============================
 ![Ballades en âne](/images/balladeAne.gif)
 
@@ -27,7 +27,7 @@ Cette association installée au village est animée par une poignée de passionn
 ![Grange d'Anes Art'gonne](/images/grangeAnes.jpeg)
 
 
-- [Beaulieu en Argonne (à 1O minutes)](http://beaulieu-en-argonne.com)
+- <a href="http://beaulieu-en-argonne.com" target="_blank">Beaulieu en Argonne</a> (à 1O minutes)
 ==================================
 ![Vue aérienne de Beaulieu](/images/vueAerienneBeaulieu.jpeg)
 
@@ -35,7 +35,7 @@ Ce petit village d'Argonne veut devenir l'un des plus beaux villages de France e
 
 ![Pressoir Beaulieu](/images/pressoirBeaulieu.jpeg)
 
-- [Verdun (à 25 minutes)](http://www.verdun-tourisme.com/)
+- <a href="http://www.verdun-tourisme.com/" target="_blank">Verdun</a> (à 25 minutes)]
 ====================================
 ![Port de Verdun](/images/portVerdun.jpeg)
 
@@ -77,7 +77,7 @@ Ancien ermitage, ce site religieux saura vous toucher, même si vous n'êtes pas
 Cette petite ville possède un quartier Renaissance qui compte parmi les plus beaux d'Europe. Si vous aimez les belles bâtisses et les détails architecturaux, vous ne serez pas déçus. Aux journées européennes du patrimoine, fin septembre, certains propriétaires ouvrent leurs demeures. C'est l'occasion de découvrir de l'intérieur ce quartier ancien. Un festival culturel annuel se déroule dans ce quartier.
 
 
-- [Vauquois (à 20 minutes)](http://butte-vauquois.fr/)
+-<a href="http://butte-vauquois.fr/" target="_blank">Vauquois</a> (à 20 minutes)
 ==============================
 
 Voilà une butte qui coupe le souffle. Haut lieu de la guerre 14-18, ce village niché sur un promontoire à haute valeur stratégique a été anéanti par les combats. A sa place, des trous béants, gigantesques, formés par la guerre de sape, des mines placées au bout de longues galeries, sous les lignes ennemies. Parfois, les caves des maisons ont servi de tranchées pour les soldats. Une association très dynamique rénove ce site depuis des années, certaines galeries sont visitables le dimanche ou sur rendez-vous. Vous voulez participer aux travaux? En général les bénévoles travaillent le samedi, nous vous mettront en contact avec eux si vous souhaitez leur donner un coup de main.
@@ -116,4 +116,4 @@ Notre gare en pleine nature:
 ========================
 Une vraie salle de concert rock tenue à bout de bras par une association de passionnés de musique et de motos. Ambiance assurée!!! Les concerts ou événements ont lieu en général le samedi soir.
 
-Leur page fb est [là](https://www.facebook.com/MusicAndBike)
+Leur page fb est <a href="https://www.facebook.com/MusicAndBike" target="_blank"> là</a>
