@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installed windows"
-date: 2016-02-15 12:00:00
+date: 2016-02-15 00:00:00
 link: windows
 lang: en
 
