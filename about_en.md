@@ -11,7 +11,18 @@ By living at home, you will be located in the center of the Meuse, you can quick
 
 In our farm you will have a true ecological approach, we are doing everything we can to respect Mother Nature. Go see [here](/ecology_en.html).
 
-If desired, Pierre will show you his animals, jams, pies and vegetable garden.
+Here we are:
+
+![Nous](/images/profil.jpg)
+
+We have a daughter, who is 14 months old, and a dog, Iris, who is the real boss of the house:)
+
+
+![Iris](/images/irisChiot.png)
+
+
+
+If desired, Pierre will show you his hens, jams, pies and vegetable garden.
 
 Sonia, childminder approved and holder of BAFA, will keep and occupy your children safe if you want to leave without them. Soon they will no longer accept to live without her ...
 

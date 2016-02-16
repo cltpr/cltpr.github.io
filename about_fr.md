@@ -11,8 +11,16 @@ En habitant chez nous, vous serez situés au centre de la Meuse, vous pourrez ac
 
 Dans notre ferme vous aurez une vraie démarche écologique, nous faisons tout ce que nous pouvons pour respecter Dame Nature. Allez voir [ici](/ecology_fr.html).
 
+Nous voilà:
 
-Si vous le souhaitez, Pierre vous fera découvrir ses animaux, ses confitures, son potager et ses pâtés.
+![Nous](/images/profil.jpg)
+
+Nous avons une petite fille de 13 mois, et une chienne, Iris, qui est le véritable patron à la maison:)
+
+![Iris](/images/irisChiot.png)
+
+
+Si vous le souhaitez, Pierre vous fera découvrir ses poules, ses confitures, son potager et ses pâtés.
 
 Sonia, assistante maternelle agréée et titulaire du BAFA et du BAFD, pourra garder et occuper vos enfants en toute sécurité si vous souhaitez sortir sans eux. Bientôt ils ne pourront plus se passer d'elle...
 
