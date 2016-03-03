@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le gîte
+title: Notre gîte en Argonne, près des champs de bataille
 permalink: /presentation/
 link: presentation
 lang: fr

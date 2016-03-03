@@ -7,7 +7,7 @@ lang: fr
 
 
 Evres est un charmant petit village au coeur de la Meuse, qui a su conserver le calme et la quiétude campagnarde.
-En habitant chez nous, vous serez situés au centre de la Meuse, vous pourrez accéder rapidement si le coeur vous en dit à toutes les activités touristiques du département. Allez faire votre programme [là](/activities_fr.html).
+En habitant chez nous, vous serez situés au centre de la Meuse, vous pourrez accéder rapidement si le coeur vous en dit à toutes les activités touristiques du département, des champs de bataille aux activités nature. Allez faire votre programme [là](/activities_fr.html).
 
 Dans notre ferme vous aurez une vraie démarche écologique, nous faisons tout ce que nous pouvons pour respecter Dame Nature. Allez voir [ici](/ecology_fr.html).
 
