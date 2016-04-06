@@ -76,9 +76,36 @@ a:hover{color:black}; /*quand on passe la souris sur un lien*/
     margin-right:-720px;
     width:130px;
 }
-
+#UE{
+    position:absolute;
+    top:660px;
+    left:50%;
+    margin-left:-720px;
+    width:130px;
+}
+#LEADER{
+    position:absolute;
+    top:660px;
+    right:50%;
+    margin-right:-720px;
+    width:130px;
+}
+#europeEnLorraine{
+    position:absolute;
+    top:560px;
+    right:50%;
+    margin-right:-720px;
+    width:130px;
+}
+#paysBarrois{
+    position:absolute;
+    top:600px;
+    left:50%;
+    margin-left:-720px;
+    width:130px;
+}
 .pastille img{
-    max-height:200px;
+    max-height:150px;
 }
 
 
