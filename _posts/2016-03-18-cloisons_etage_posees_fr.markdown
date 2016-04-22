@@ -2,6 +2,7 @@
 layout: post
 title: "Les cloisons de l'étage sont posées !!"
 date: 2016-03-18 00:00:00
+image: /images/couloir20160310.jpg
 link: cloisons
 lang: fr
 

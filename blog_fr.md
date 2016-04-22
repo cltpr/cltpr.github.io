@@ -20,8 +20,11 @@ lang: fr
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+	<h2>
+<img src="{{post.image}}">
+	</h2>
       </li>
-    {% endfor %}
+{% endfor %}
   </ul>
 
   <p class="rss-subscribe">suivre le <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p>

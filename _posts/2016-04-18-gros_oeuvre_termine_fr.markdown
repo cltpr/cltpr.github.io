@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Le gros oeuvre est terminé !!"
+image: /images/20160418_Photo0378.jpg
 date: 2016-04-18 00:00:00
 link: grosOeuvre
 lang: fr

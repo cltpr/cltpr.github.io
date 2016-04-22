@@ -2,6 +2,7 @@
 layout: post
 title:  "Your cottage in a few months!!!"
 date:   2015-12-21 09:38:43
+image: /images/eglise.jpeg
 link: welcome
 lang: en
 categories: jekyll update

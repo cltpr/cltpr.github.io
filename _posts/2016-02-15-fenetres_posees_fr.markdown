@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fenêtres posées"
+image: /images/fenetresPosees.jpg
 date: 2016-02-15 00:00:00
 link: windows
 lang: fr

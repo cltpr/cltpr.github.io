@@ -6,6 +6,6 @@ lang: fr
 ---
 
 
-Vous pouvez réserver vos séjours à compter du 1er juin 2016, dès aujourd'hui!!
+Vous pouvez réserver vos séjours à compter du 1er juillet 2016, dès aujourd'hui!!
 
-Pour l'instant, contactez nous par mail!!
+Contactez nous par mail ou téléphone!!

@@ -2,6 +2,7 @@
 layout: post
 title: "Après une semaine de travaux"
 date: 2016-01-13 12:00:00
+image: /images/fenetresOuvertes.jpg
 link: oneWeek
 lang: fr
 

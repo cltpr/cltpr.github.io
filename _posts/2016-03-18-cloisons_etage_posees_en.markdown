@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The first floor has its three rooms !!"
+image: /images/couloir20160310.jpg
 date: 2016-03-18 00:00:00
 link: cloisons
 lang: en

@@ -2,6 +2,7 @@
 layout: post
 title: "Some photos before the beginning"
 date: 2016-01-05 12:00:00
+image: /images/Photo0191.jpg
 link: before
 lang: en
 

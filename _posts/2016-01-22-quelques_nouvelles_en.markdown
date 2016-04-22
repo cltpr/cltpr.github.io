@@ -3,6 +3,7 @@ layout: post
 title: "Some news"
 date: 2016-01-22 12:00:00
 link: someNews
+image: /images/plafond.jpg
 lang: en
 
 ---

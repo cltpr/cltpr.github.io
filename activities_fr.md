@@ -45,7 +45,7 @@ Que dire de Verdun? Elle est certainement une des petites villes les plus connue
 
 - Les caves de champagne
 =======================================
-Epernay et Reims et leurs immenses caves de champagne sont à une heure de la maison. i
+Epernay et Reims et leurs immenses caves de champagne sont à une heure de la maison.
 
 ![Caves de Champagne](/images/cave.jpeg)
 
