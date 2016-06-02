@@ -19,8 +19,14 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 
 
 * Récupération à la gare
+
+![](/images/gareTGV.jpeg)
+
 * Installation dans le gîte
 * Repas à Passavant, chez Roselyne et Dominique.
+
+![](/images/passavant.jpg)
+
 
 ***
 
@@ -29,29 +35,38 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 * Petit déjeuner au gîte
 * Départ pour Verdun et ses champs de bataille
 
-* matin: visite de la citadelle basse de Verdun, du centre mondial de la paix.
+### Matin:
+
+* visite de la citadelle basse de Verdun
 
 ![](/images/citadelle.jpeg)
+
+* visite du centre mondial de la paix.
 
 ![](/images/centreMondialDeLaPaix.jpeg)
 
 * repas à la Cloche d'Or
-* après midi: visite du mémorial, de l'ossuaire de Douaumont, du fort de Vaux et de Douaumont, de la tranchée des baïonettes.
+
+###Après midi: 
+
+* visite du mémorial (nouvelle scénographie depuis 2016)
 
 ![](/images/memorial.jpeg)
 
+* visite de l'ossuaire de Douaumont
+
 ![](/images/ossuaire.jpeg)
 
+* visite du fort de Vaux et de Douaumont, de la tranchée des baïonettes.
 
 ![](/images/fortDeVaux.jpeg)
-
 
 ![](/images/fortDeDouaumont.jpeg)
 
 
-
-
 * repas à l'Austrasius à Beaulieu, chez Xavier.
+
+![](/images/austrasius.jpg)
 
 ***
 
