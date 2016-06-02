@@ -47,7 +47,7 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 
 * repas à la Cloche d'Or
 
-###Après midi: 
+### Après midi: 
 
 * visite du mémorial (nouvelle scénographie depuis 2016)
 
