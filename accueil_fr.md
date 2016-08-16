@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Dossier d'accueil
 permalink: /accueil/
 link: accueil
