@@ -1,5 +1,4 @@
 ---
-title: Dossier d'accueil
 permalink: /accueil/
 link: accueil
 lang: fr
