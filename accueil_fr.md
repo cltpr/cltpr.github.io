@@ -79,4 +79,15 @@ Si vous avez apprécié votre séjour, n'hésitez pas à en parler autour de vou
 
 
 
+GESTION DES DECHETS
+
+Vous disposez à l'écurie de trois poubelles plus le composteur à l'extérieur.
+Vous avez:
+- le composteur pour les déchets de cuisine : épluchures, coquilles d'oeufs, marc de café, filtres en papier, pain, laitages, croûtes de fromages, fanes de légumes, fruits et légumes abîmés, etc. Ne pas mettre de légumes ou viandes cuits SVP
+- une poubelle pour le verre
+
+- une poubelle pour les bouteilles en plastiques (ne pas mettre de plastiques qui ne sont pas des bouteilles SVP), les canttes en fer blanc, les briques alimentaires, les cartons et papiers
+
+
+
 
