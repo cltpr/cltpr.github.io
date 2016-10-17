@@ -1,4 +1,5 @@
 ---
+![cuisine](/images/diaporama/20160915_cuisine.jpg)
 layout: post
 title: "Carrelage et planchers posés :)"
 date: 2016-06-20 00:00:00
