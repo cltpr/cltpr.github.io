@@ -6,6 +6,8 @@ lang: fr
 ---
 
 
-Vous pouvez réserver vos séjours à compter du 1er juillet 2016, dès aujourd'hui!!
+Vous pouvez réserver vos séjours, contactez nous par mail ou téléphone!!
+Si vous préférez, nous sommes aussi présents sur le site AIRBNB.
 
-Contactez nous par mail ou téléphone!!
+Pour information, vous pouvez visualiser notre contrat de location type 
+<a href="/images/contrat.pdf" target="_blank">ici</a> 

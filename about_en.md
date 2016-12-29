@@ -15,7 +15,7 @@ Here we are:
 
 ![Nous](/images/profil.jpg)
 
-We have a daughter, who is 14 months old, and a dog, Iris, who is the real boss of the house:)
+We have a daughter, who is 2 years old, and a dog, Iris, who is the real boss of the house:)
 
 
 ![Iris](/images/irisChiot.png)
