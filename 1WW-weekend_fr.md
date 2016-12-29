@@ -1,5 +1,5 @@
 ---
-layout: page
+
 link: 1WW-weekend
 lang: fr
 ---
