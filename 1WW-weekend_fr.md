@@ -14,8 +14,8 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
  Voici le programme:
 ==========================
 
-## Vendredi soir:
-
+ Vendredi soir:
+------------------------
 
 * Récupération à la gare
 
@@ -29,12 +29,13 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 
 ***
 
-## Samedi:
-
+Samedi:
+------------------------
 * Petit déjeuner au gîte
 * Départ pour Verdun et ses champs de bataille
 
-### Matin:
+ Matin:
+----------------------
 
 * visite de la citadelle basse de Verdun
 
@@ -46,7 +47,8 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 
 * repas à la Cloche d'Or
 
-### Après midi: 
+Après midi: 
+------------------------------
 
 * visite du mémorial (nouvelle scénographie depuis 2016)
 
@@ -69,7 +71,8 @@ Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 
 ***
 
-## Dimanche:
+ Dimanche:
+---------------------------------------
 
 * Petit déjeuner au gîte
 * Départ pour les champs de bataille de l'Argonne.
