@@ -76,12 +76,20 @@ Après midi:
 
 * Petit déjeuner au gîte
 * Départ pour les champs de bataille de l'Argonne.
-* matin: visite de la<a href="http://butte-vauquois.fr/" target="_blank"> butte de Vauquois</a> et de son musée.
+
+Matin: 
+-----------------------
+
+* Visite de la<a href="http://butte-vauquois.fr/" target="_blank"> butte de Vauquois</a> et de son musée.
 
 ![](/images/vauquois.jpeg)
 
 * repas au restaurant de la butte
-* après midi: découverte des champs de bataille de l'Argonne, de la Haute Chevauchée, de l'abri du Kronprinz, du ravin du génie.
+
+Après midi: 
+--------------------------
+
+* Découverte des champs de bataille de l'Argonne, de la Haute Chevauchée, de l'abri du Kronprinz, du ravin du génie.
 * retour à la gare pour repartir vers Paris ou ailleurs.
 
 Le programme peut un peu varier en fonction des disponibilités des sites et des restaurants. Nous en discuterons par mail si c'est le cas.
