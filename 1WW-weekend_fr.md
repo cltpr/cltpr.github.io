@@ -11,8 +11,8 @@ Nous vous attendons à la gare Meuse TGV (1 heure de Paris) ou à la gare de Bar
 Nous vous accueillons pour ces weeks ends jusque 6 personnes.
 
 
-### Voici le programme:
-
+ Voici le programme:
+==========================
 
 ## Vendredi soir:
 
