@@ -4,7 +4,6 @@ link: 1WW-weekend
 lang: fr
 ---
 
-## WEEK END CENTENAIRE DE LA PREMIERE GUERRE MONDIALE
 
 Nous vous proposons de découvrir le patrimoine historique de notre région, lié à la première guerre mondiale.
 Ces weeks ends ***tout compris*** vous permettent de profiter de ces moments de découverte, sans vous soucier des détails du quotidien.
