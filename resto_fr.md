@@ -1,6 +1,5 @@
 ---
 layout: page
-title: resto
 link: resto
 lang: fr
 ---
