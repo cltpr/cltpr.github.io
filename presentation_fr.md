@@ -8,10 +8,10 @@ lang: fr
 ---
 
 
-Notre gîte peut accueillir 8 personnes, et dispose de 3 chambres. Sa grande terrasse et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
+Notre gîte peut accueillir jusque 13 personnes, et dispose de 3 grandes chambres. Sa grande cour et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
 
-Il est labellisé <a href="/images/DecisionClassement2016.pdf" target="_blank">"meublé de tourisme 3 étoiles" </a> , pour vous garantir un niveau de service et de confort maximum. 
-
+<!--%Il est labellisé <a href="/images/DecisionClassement2016.pdf" target="_blank">"meublé de tourisme 3 étoiles" </a> , pour vous garantir un niveau de service et de confort maximum. 
+-->
 
 
 Voici quelques photos
@@ -32,11 +32,6 @@ La terrasse:
 Le jardin:
 
 ![](/images/diaporama/20160816_jardin.jpg )
-
-
-Le spa nordique, en cours d'installation dans le jardin:
-
-![bientôt!!]()
 
 
 Le billard:
@@ -72,7 +67,6 @@ La salle de bains du haut:
 Nous mettons à votre disposition le maximum d'équipements afin que vous ne manquiez de rien. Voici une liste pour résumer:
 
 
-- une télé dans chaque chambre, une grande télé dans le séjour.
 
 
 - réseau wifi
@@ -83,6 +77,7 @@ Nous mettons à votre disposition le maximum d'équipements afin que vous ne man
 
 - four, four micro-ondes, 4 plaques de cuisson
 
+- plusieurs télés (cuisine, chambre).
 
 - salon de jardin et de détente
 

@@ -15,7 +15,7 @@ Nous voilà:
 
 ![Nous](/images/profil.jpg)
 
-Nous avons une petite fille de 2 ans, et une chienne, Iris, qui est le véritable patron à la maison:)
+Nous avons une petite fille de 2 ans et demi, et une chienne, Iris, qui est le véritable patron à la maison:)
 
 ![Iris](/images/irisChiot.png)
 
