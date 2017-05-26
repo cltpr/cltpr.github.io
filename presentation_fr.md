@@ -18,20 +18,20 @@ Voici quelques photos
 
 Le séjour:
 
-![](/images/diaporama/20160816_salon.jpg) 
+![](/images/diaporama/.jpg) 
 
 La cuisine:
 
-![](/images/diaporama/20160915_cuisine.jpg )
+![](/images/diaporama/.jpg )
 
 La terrasse:
 
-![](/images/diaporama/20160915_terrasse.jpg )
+![](/images/diaporama/.jpg )
 
 
 Le jardin:
 
-![](/images/diaporama/20160816_jardin.jpg )
+![](/images/diaporama/.jpg )
 
 
 Le billard:
@@ -41,28 +41,24 @@ Le billard:
 
 Le piano: 
 
-![](/images/diaporama/20160816_salleAManger.jpg )
+![](/images/diaporama/.jpg )
 
 
 Les chambres:
 
-![](/images/diaporama/20160816_lit2places.jpg )
+![](/images/diaporama.jpg )
 
-![](/images/diaporama/20160816_litsJumeaux.jpg )
+![](/images/diaporama.jpg )
 
-![](/images/diaporama/20160816_chambre3.jpg )
+![](/images/diaporama.jpg )
 
-![](/images/diaporama/20160816_chambre3-2.jpg )
+![](/images/diaporama/.jpg )
 
-La salle de bains du bas:
+La salle de bains:
 
-![](/images/diaporama/20160915_douche.jpg )
+![](/images/diaporama/.jpg )
 
-La salle de bains du haut:
-
-![](/images/diaporama/20160915_sdb-haut.jpg )
-
-![](/images/diaporama/20160915_baignoire.jpg )
+Les toilettes écologiques:
 
 Nous mettons à votre disposition le maximum d'équipements afin que vous ne manquiez de rien. Voici une liste pour résumer:
 
