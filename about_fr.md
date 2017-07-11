@@ -29,7 +29,7 @@ Et si vous le voulez, nous pourrons pourquoi pas partager quelques moments ensem
 
 Notre maison est énorme (450 mètres carrés au sol), c'est un ancien corps de ferme reconstruit après le premier conflit mondial. En plus de notre gîte, nous avons plein d'idées pour la faire vivre. Nous comptons sur vous pour nous donner votre avis!
 
-Vous venez de Paris ou d'ailleurs en TGV? La gare est à dix minutes, nous viendrons vous chercher et vous reconduirons avec plaisir. Une location d'une de nos deux voitures est aussi possible par le site drivy.com si vous voulez.
+Vous venez de Paris ou d'ailleurs en TGV? La gare est à dix minutes, nous viendrons vous chercher et vous reconduirons avec plaisir.
 
 Passionnés de rencontres et d'échanges, nous sommes prèts à vous accueillir et à vous faire partager nos centres d'intérêt.
 

@@ -31,7 +31,7 @@ And if you want, we can why not share a few moments together for a visit, a meal
 
 Our house is huge (450 square meters on the ground), it is an old farmhouse rebuilt after the First World War. We have lots of ideas to sustain it. We count on you to give us your opinion!
 
-You come from Paris by TGV or elsewhere? The railway station is ten minutes, we will pick you if necessary. A rental of one of our two cars is also possible by the site drivy.com if you want.
+You come from Paris by TGV or elsewhere? The railway station is ten minutes, we will pick you if necessary.
 
 Living for meetings and exchanges, we are ready to welcome you and make you share our interests.
 

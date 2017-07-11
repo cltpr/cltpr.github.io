@@ -12,18 +12,13 @@ Voici quelques pages pour vous aider à passer un séjour agréable!!
 
 #VOS COURSES
 
-Pour les croissants et le pain du matin, un boulanger passe devant le gîte vers 8h30, il vous faut être au bord de la route (cammionette blanche)
-Pour une commande spéciale ou être sur qu'il s'arrête, vous pouvez appeler la veille au 03 29 70 72 08
+Pour les croissants et le pain du matin, un boulanger passe devant le gîte vers 8h15-8h30, il vous faut être au bord de la route (cammionette blanche) ou guetter par la porte fenêtre. Il est nécessaire de l'appeler pour commander au 03 29 70 72 08. Vous pouvez appeler à n'importe quelle heure (mais avant 7h le matin). Si cela ne répond pas, commandez en laissant un message. Pensez à laisser un numéro de téléphone portable et à bien dire que vous êtes au gîte de Mr et Mme CAILLET à Evres. Attention il passe tous les jours (dimanche compris), mais pas le mercredi!!! Pour le mercredi, un autre boulanger passe vers 12h (cammionette rouge), il faut également l'appeler avant, c'est mieux (03 29 75 14 20)
 
-Un autre passe de la même manière vers 12h00 (cammionnette rouge). Son téléphone: 03 29 75 14 20
 
-Un épicier passe le jeudi vers 12h (Weber, Sainte menehould, gros camion blanc). Son téléphone: 03 26 60 82 85 
+Un épicier passe le jeudi vers 12h (Weber, Sainte menehould, gros camion blanc). Son téléphone: 03 26 60 82 85. La dame a un peu de tout: fruits, légumes, charcuterie, un peu de viande, etc... 
 
-Un boucher passe le mardi, le mieux est d'appeler avant au 03 29 90 94 49 
 
 A 5 km, à Triaucourt, vous avez:
-
-- une superette avec des légumes, de la viande, et le minimum nécessaire.
 
 - un bar tabac et station service
 
@@ -46,34 +41,18 @@ Pour des plus grosses courses, vous pouvez aller:
 
 - à Clermont en Argonne, 18 km. Vous avez là un intermarché, et d'autres commerces.
 
-- à Fains les sources, juste avant Bar le Duc, 22 km. Vous avez aussi un intermarché.
+- à Fains les sources, juste avant Bar le Duc, 22 km. Vous avez aussi un intermarché (plus grand que celui de Clermont) et un bricomarché.
 
-- à Bar le Duc, Sainte Menehould ou Verdun, ou vous avez plusieurs grandes surfaces.
+- à Bar le Duc (25km): LECLERC, AUCHAN, LIDL, ALDI, et pas mal de commerces en tous genres
+
+- à Verdun(35km): LECLERC, CORA, LIDL, INTERMARCHE (ouvert le dimanche matin) et pas mal de commerces en tous genres
+
+- à Sainte Menehould (28km): SUPER U, LIDL, ALDI 
 
 
 #GESTION DES TOILETTES SECHES
 
 Respectez bien les consignes affichées dans les toilettes.
-
-Quand le seau est aux trois quarts plein (n'attendez pas que ça déborde!!!!), vous devez:
-
-- mettre le couvercle
-
-- sortir le seau dehors (attention dans l'escalier!!!)
-
-- le vider dans le composteur au fond du jardin
-
-- le rincer, vaporiser du vinaigre dedans (vaporisateur jaune dans l'écurie)
-
-- le déposer dans l'écurie, juste derrière la porte, et prendre un nouveau seau plein de sciure propre 
-
-- mettre le nouveau seau dans vos toilettes, en transvasant la sciure dans la réserve
-
-- ATTENTION, toujours laisser 5 cm de sciure au fond du seau!!!
-
-BRAVO pour ce geste pour notre eau et notre planète
-
-Si vider le seau plein vous embête, vous pouvez le déposer dans l'écurie directement fermé de son couvercle, Pierre s'occupera de le vider. Il vous suffit alors de prendre un seau avec sciure propre.
 
 Si vous souhaitez vous construire des toilettes sèches, Pierre vous donnera un coup de main, n'hésitez pas!!
 
@@ -85,26 +64,33 @@ Allez voir [ici](/resto_fr.html)
 
 Allez voir [ici](/activities_fr.html)
 
+#WIFI
+
+Le réseau wifi s'appelle clt, le code est 06613029760650933187
+
+Nous sommes connectés en WIMAX, soyez indulgents, le débit est de maximum 10 MB.
 
 #GESTION DES DECHETS
 
-Vous disposez à l'écurie de trois poubelles plus le composteur à l'extérieur.
+Vous disposez de cinq poubelles à la cuisine. Et oui, il faut ça!!!
 
 Vous avez:
 
-- le composteur pour les déchets de cuisine : épluchures, coquilles d'oeufs, marc de café, filtres en papier, pain, laitages, croûtes de fromages, fanes de légumes, fruits et légumes abîmés, etc. Ne pas mettre de légumes ou viandes cuits SVP
+- le petite poubelle verte pour les déchets de cuisine, qui sera donnée aux poules : épluchures, coquilles d'oeufs, marc de café, filtres en papier, pain, laitages, croûtes de fromages, fanes de légumes, fruits et légumes abîmés, légumes ou viandes cuits.
 
-- une poubelle pour le verre
+- une poubelle pour le verre. Vous pouvez la vider quand elle est pleine dans la grande poubelle sous le hangar. Ne mettez pas de verre cassé SVP.
 
-- une poubelle pour les bouteilles en plastiques (ne pas mettre de plastiques qui ne sont pas des bouteilles SVP), les canettes en fer blanc, les briques alimentaires, les cartons et papiers
+- une poubelle pour les bouteilles en plastiques (ne pas mettre de plastiques qui ne sont pas des bouteilles SVP), les canettes en fer blanc, les briques alimentaires, les cartons et papiers. Attention c'est pour le recyclage. Vous pouvez la vider dans la poubelle au couvercle jaune, au bord de la route.
 
+- une poubelle pour les autres plastiques (pots de yaourt, emballages divers, etc...). Vous pouvez la vider dans la poubelle grise sous le hangar.
 
+- une poubelle inox pour tout ce qui ne rentre pas dans les catégories du dessus. Normalement il n'y a pas grand chose!!! Exemple: capsules, couvercles des bocaux, verre cassé, couches bébé.
 
 #EN FIN DE SEJOUR
 
 Merci de ranger le gîte comme vous l'avez trouvé.
-Si vous avez décidé de faire le ménage vous même, attention à le faire parfaitement. Si nous devons le refaire nettoyer malgré cela, nous serons obligés de vous le facturer!!!
 Si quelque chose est cassé ou abîmé, dites le nous, ce sera plus simple de nous arranger directement.
+Si vous voulez, videz les poubelles de la cuisine  dans les grandes poubelles extérieures (sinon, on le fera, pas de souci!)
 Laissez un petit mot dans notre cahier de suggestions. N'hésitez pas à être critique, afin de nous aider à améliorer notre offre!!
 
 Si vous avez apprécié votre séjour, n'hésitez pas à en parler autour de vous!!!
