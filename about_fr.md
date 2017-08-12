@@ -27,7 +27,7 @@ Sonia, assistante maternelle agréée et titulaire du BAFA et du BAFD, pourra ga
 Nous serons de bon conseil pour vous guider sur les choses à faire dans notre petit coin, en fonction de ce que vous aimez.
 Et si vous le voulez, nous pourrons pourquoi pas partager quelques moments ensemble pour une visite, un repas ou juste pour papoter.
 
-Notre maison est énorme (450 mètres carrés au sol), c'est un ancien corps de ferme reconstruit après le premier conflit mondial. En plus de notre gîte, nous avons plein d'idées pour la faire vivre. Nous comptons sur vous pour nous donner votre avis!
+Notre maison est énorme (450 mètres carrés au sol), c'est un ancien corps de ferme reconstruit après le premier conflit mondial. En plus de notre gîte et de nos chambres d'hôtes, nous avons plein d'idées pour la faire vivre. Nous comptons sur vous pour nous donner votre avis!
 
 Vous venez de Paris ou d'ailleurs en TGV? La gare est à dix minutes, nous viendrons vous chercher et vous reconduirons avec plaisir.
 
