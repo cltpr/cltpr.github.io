@@ -24,13 +24,10 @@ La salle billard/piano:
 
 ![](/images/gite13p/billard_et_piano.jpg )
 
-Le petit salon:
+Le salon:
 
 ![](/images/gite13p/salon.jpg )
 
-Le grand salon:
-
-![](/images/diaporama/20160816_salon.jpg)
 
 Les bibliothèques:
 
@@ -63,26 +60,27 @@ Les salles de bains:
 
 ![](/images/gite13p/ll sl.jpg )
 
-![](/images/diaporama/20160915_sdb-haut.jpg )
 
-![](/images/diaporama/20160915_douche.jpg )
 
 
 Les toilettes écologiques:
 
 ![](/images/gite13p/tlb.jpg )
 
-La terrasse et le jardin coté spa:
 
-![](/images/diaporama/20160915_terrasse.jpg )
 
-Le coté cour, avec le potager en carrés et la piscine pour la belle saison:
+La cour, avec le potager en carrés et la piscine pour la belle saison:
 
 ![](/images/gite13p/facade.jpg )
 
+Le spa familial et écologique, ou bain nordique, éclairage de couleur et machine à bulle!!
+
+![](/images/gite13p/spa.jpg )
+
+
 Le terrain de boules communal, à 50 mètres:
 
-![](/images/gite13p/.jpg )
+image à venir....
 
 
 Nous mettons à votre disposition le maximum d'équipements afin que vous ne manquiez de rien. Voici une liste pour résumer:
@@ -100,3 +98,6 @@ Nous mettons à votre disposition le maximum d'équipements afin que vous ne man
 
 - salon de jardin et de détente
 
+- jeux de pétanque, quilles finlandaises
+
+- barbecue
