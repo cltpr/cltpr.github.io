@@ -10,5 +10,5 @@ Visit the website : www.ferme-de-l-ecurieux.fr
 - faire une page pour les resto
 - drapeaux pour choix des lanques
 - compteur de visite
-
+- commentaires
 
