@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The cottage
+title: Big cottage
 link: presentation
 lang: en
 ---

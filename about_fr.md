@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos de nous
+title: Nous
 link: about
 lang: fr
 ---

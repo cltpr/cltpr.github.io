@@ -1,14 +1,14 @@
 ---
 
 layout: page
-title: La maison
+title: Grand gîte
 permalink: /presentation/
 link: presentation
 lang: fr
 ---
 
 
-Notre maison peut accueillir jusque 15 personnes, et dispose de 5 chambres. Sa grande cour et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
+Le grand gîte peut accueillir jusque 15 personnes, et dispose de 5 chambres. Sa grande cour et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
 
 <!--%Il est labellisé <a href="/images/DecisionClassement2016.pdf" target="_blank">"meublé de tourisme 3 étoiles" </a> , pour vous garantir un niveau de service et de confort maximum. 
 -->
