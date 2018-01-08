@@ -69,14 +69,16 @@ Les toilettes écologiques:
 
 
 
-La cour, avec le potager en carrés et la piscine pour la belle saison:
+La cour, avec le potager en carrés:
 
 ![](/images/gite13p/facade.jpg )
 
+
+<!--
 Le spa familial et écologique, ou bain nordique, éclairage de couleur et machine à bulle!!
 
 ![](/images/gite13p/spa.jpg )
-
+-->
 
 Le terrain de boules communal, à 50 mètres:
 
@@ -86,7 +88,6 @@ image à venir....
 Nous mettons à votre disposition le maximum d'équipements afin que vous ne manquiez de rien. Voici une liste pour résumer:
 
 - réseau wifi
-
 
 - lave linge, sèche linge, lave vaisselle
 
