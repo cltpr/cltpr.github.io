@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Saint Evence cottage
+title: Saint Evence's cottage
 link: petitGite
 lang: en
 ---
