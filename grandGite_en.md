@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Big cottage
+title: Ecurieux cottage
 link: presentation
 lang: en
 ---

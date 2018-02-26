@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smart cottage
+title: Saint Evence cottage
 link: petitGite
 lang: en
 ---

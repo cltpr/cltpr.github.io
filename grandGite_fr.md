@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Grand gîte
+title: Gîte de l'Ecurieux
 permalink: /presentation/
 link: presentation
 lang: fr

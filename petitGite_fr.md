@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Petit gîte
+title: Gîte Saint Evence
 permalink: /petitGite/
 link: petitGite
 lang: fr

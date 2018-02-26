@@ -15,7 +15,7 @@ Les tarifs dépendent de votre besoin et de la période.
 Exemples:
 
 - 1 semaine dans un des gîtes en période de vacances scolaires: 490 euros
-- 1 week end (deux nuits) dans un  gîte en période de vacances scolaires: 390 euros
+- 1 week end (deux nuits) dans un  gîte en période de vacances scolaires: 350 euros
 - 1 week end dans le gîte hors vacances scolaires: 270 euros
 
 
@@ -44,9 +44,9 @@ Pour consulter nos disponibilités, voici le lien à suivre:
 Si vous préférez, nous sommes aussi présents sur le site AIRBNB, avec une option de réservation instantanée, pour les pressés!!!
 
 Pour information, vous pouvez visualiser notre contrat de location type 
-<a href="/images/contratGrandGite.pdf" target="_blank">ici pour le grand gîte</a>
+<a href="/images/contratGrandGite.pdf" target="_blank">ici pour le gîte de l'Ecurieux</a>
  et 
-<a href="/images/contratPetitGite.pdf" target="_blank"> là pour le petit gîte</a>
+<a href="/images/contratPetitGite.pdf" target="_blank"> là pour le gîte saint Evence</a>
 
 
 
