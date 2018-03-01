@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le blog
+title: Blog
 permalink: /blog/
 link: blog
 lang: fr

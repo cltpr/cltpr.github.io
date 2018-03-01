@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nature protection
+title: Nature
 link: ecology
 lang: en
 ---

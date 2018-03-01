@@ -1,5 +1,5 @@
 ---
-title: The blog
+title: Blog
 link: blog
 lang: en
 ---

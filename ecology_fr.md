@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Démarche écologique
+title: Ecologie
 link: ecology
 lang: fr
 ---
