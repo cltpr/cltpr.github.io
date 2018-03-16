@@ -16,35 +16,42 @@ Voici quelques photos:
 
 La terrasse:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160915_terrasse.jpg )
 
 Le salon:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160816_salon.jpg )
 
 La cuisine:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160915_cuisine.jpg )
+
+![](/images/petitGite/20160915_cuisine2.jpg )
+![](/images/petitGite/20160915_cuisine3.jpg )
 
 La chambre parentale:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160816_lit2places.jpg )
 
 La petite chambre:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160816_litJumeaux.jpg )
 
 La grande chambre:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160816_chambre3.jpg )
+
+![](/images/petitGite/20160816_chambre3-2.jpg )
 
 La salle de bains du bas:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160915_douche.jpg )
 
 La salle de bains du haut:
 
-![](/images/petitGite/.jpg )
+![](/images/petitGite/20160915_sdb-haut.jpg )
+
+![](/images/petitGite/20160915_baignoire.jpg )
 
 Le terrain de boules communal, à 50 mètres:
 
@@ -52,5 +59,5 @@ Le terrain de boules communal, à 50 mètres:
 
 Le spa familial et écologique, ou bain nordique, éclairage de couleur et machine à bulle!!
 
-![](/images/gite13p/spa.jpg )
+![](/images/petitGite/spa.jpg )
 
