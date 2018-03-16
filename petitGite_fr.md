@@ -6,7 +6,7 @@ permalink: /petitGite/
 link: petitGite
 lang: fr
 ---
-Le petit gîte (8 places) sera à nouveau disponible à compter des vacances de printemps!!!
+Le gîte Saint Evence (du nom du saint patron de la commune) est un meublé de tourisme classé 3 étoiles.
 
 Ce logement peut accueillir 8 personnes et dispose d'un jardin privatif et  d'une grande terrasse ensoleillée. Il compte trois chambres, deux salles de bains et un grand séjour.
 
