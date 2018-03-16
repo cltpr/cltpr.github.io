@@ -19,7 +19,7 @@ Evres est situé sur un chemin de grande randonnée (le GR14). Il vous permettra
 La forêt argonnaise, comptant nombre de vallées et d'étangs, saura vous surprendre. On vous conseillera sur les plus belles randonnées à faire!
 
 -<a href="http://anesartgonne.free.fr/index.html" target="_blank">Anes Art'gonne</a> (à 300 mètres...)
-============================
+=============================
 ![Ballades en âne](/images/balladeAne.gif)
 
 Cette association installée au village est animée par une poignée de passionnés. Ils vous accueillent pour des ballades avec des ânes et pour découvrir l'aniserie. Leur ferme est superbement refaite, avec même un four à pain. Des expositions sont installées dans la grange, temporaires ou permanentes (beaucoup d'art africain) et vous permettent de repartir avec certains articles. Enfin, des concerts et des spectacles sont souvent organisés le week-end.
@@ -27,11 +27,18 @@ Cette association installée au village est animée par une poignée de passionn
 ![Grange d'Anes Art'gonne](/images/grangeAnes.jpeg)
 
 
+- <a href="http://ventdesforets.com" target="_blank">Le vent des forêts</a> (à 20 minutes)===========================
+![Vent des forêts](/images/ventsDesForets.png)
+
+Le vent des forêts, c'est une super initiative de bénévoles, dans une poignée de communes de la Meuse, pour accueillir des artistes dans nos forêts. Grâce à eux, des sentiers de randonnés sont parsemés d'oeuvres contemporaines en pleine forêt. Il y a des petits et des grands sentiers, vous trouverez des topo-guides dans nos gîtes. Ils ont par ailleurs une super appli smartphone, allez voir leur site!!
+
+
+
 - <a href="http://beaulieu-en-argonne.com" target="_blank">Beaulieu en Argonne</a> (à 1O minutes)
 ==================================
 ![Vue aérienne de Beaulieu](/images/vueAerienneBeaulieu.jpeg)
 
-Ce petit village d'Argonne veut devenir l'un des plus beaux villages de France et il le mérite bien. Une halte s'impose... Découvrez son imposant pressoir du 13ème siècle, autrefois utilisé par les moines de l'abbaye. Le panorama sur la région est très joli, si vous avez une bonne vue, vous pourrez peut être reconnaître la fenêtre de votre chambre... Pour les cyclistes et les marcheurs, attention la montée pour arriver à Beaulieu par le GR 14 est assez éprouvante...
+Ce petit village d'Argonne veut être reconnu comme l'un des plus beaux villages de France et il le mérite bien. Une halte s'impose... Découvrez son imposant pressoir du 13ème siècle, autrefois utilisé par les moines de l'abbaye. Le panorama sur la région est très joli, si vous avez une bonne vue, vous pourrez peut être reconnaître la fenêtre de votre chambre... Pour les cyclistes et les marcheurs, attention la montée pour arriver à Beaulieu par le GR 14 est assez éprouvante...
 
 ![Pressoir Beaulieu](/images/pressoirBeaulieu.jpeg)
 
