@@ -57,6 +57,9 @@ Le terrain de boules communal, à 50 mètres:
 
 ![](/images/petitGite/.jpg )
 
+photo bientôt dispo!!!!
+
+
 Le spa familial et écologique, ou bain nordique, éclairage de couleur et machine à bulle!!
 
 ![](/images/petitGite/spa.jpg )
