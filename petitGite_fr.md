@@ -35,7 +35,7 @@ La chambre parentale:
 
 La petite chambre:
 
-![](/images/petitGite/20160816_litJumeaux.jpg )
+![](/images/petitGite/20160816_litsJumeaux.jpg )
 
 La grande chambre:
 
