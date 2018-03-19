@@ -8,6 +8,15 @@ lang: fr
 
 Vous pouvez réserver vos séjours, contactez nous par mail ou téléphone!!
 
+
+ 
+<a href="https://calendar.yahoo.com/s267pfjjvegd4hmv5crflpsz3hcxhhud6zbl36ir" target="_blank">Disponibilités du gîte de l'Ecurieux (15 places)</a>
+
+
+<a href="https://calendar.yahoo.com/s267pfjjvegd4hmv5crflpsz3hcxhhud6zbl36ir" target="_blank">Disponibilités du gîte de l'Ecurieux (15 places)</a>
+ 
+<a href="https://calendar.yahoo.com/s267pfjjvegd4hmv5crflpsz3hcxhhud6zbl36ir" target="_blank>Disponibilité du gîte Saint Evence (8 places</a>
+
 #TARIFS
 
 Les tarifs dépendent de votre besoin et de la période.

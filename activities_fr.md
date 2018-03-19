@@ -18,6 +18,8 @@ Evres est situé sur un chemin de grande randonnée (le GR14). Il vous permettra
 
 La forêt argonnaise, comptant nombre de vallées et d'étangs, saura vous surprendre. On vous conseillera sur les plus belles randonnées à faire!
 
+
+
 -<a href="http://anesartgonne.free.fr/index.html" target="_blank">Anes Art'gonne</a> (à 300 mètres...)
 =============================
 ![Ballades en âne](/images/balladeAne.gif)
@@ -27,7 +29,8 @@ Cette association installée au village est animée par une poignée de passionn
 ![Grange d'Anes Art'gonne](/images/grangeAnes.jpeg)
 
 
-- <a href="http://ventdesforets.com" target="_blank">Le vent des forêts</a> (à 20 minutes)===========================
+- <a href="http://ventdesforets.com" target="_blank">Le vent des forêts</a> (à 20 minutes)
+===========================
 ![Vent des forêts](/images/ventsDesForets.png)
 
 Le vent des forêts, c'est une super initiative de bénévoles, dans une poignée de communes de la Meuse, pour accueillir des artistes dans nos forêts. Grâce à eux, des sentiers de randonnés sont parsemés d'oeuvres contemporaines en pleine forêt. Il y a des petits et des grands sentiers, vous trouverez des topo-guides dans nos gîtes. Ils ont par ailleurs une super appli smartphone, allez voir leur site!!
