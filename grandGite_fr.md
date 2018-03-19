@@ -52,7 +52,7 @@ La grande chambre (5 places + lit bébé + lit parapluie):
 
 ![](/images/gite13p/chambre3 sup.jpg )
 
-Les salles de bains:
+La salle de bains:
 
 
 
