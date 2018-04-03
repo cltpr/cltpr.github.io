@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Blog
 link: blog
 lang: en
