@@ -55,9 +55,9 @@ Pour consulter nos disponibilités, voici le lien à suivre:
 Si vous préférez, nous sommes aussi présents sur le site AIRBNB, avec une option de réservation instantanée, pour les pressés!!!
 
 Pour information, vous pouvez visualiser notre contrat de location type 
-<a href="/images/contratGrandGite.pdf" target="_blank">ici pour le gîte de l'Ecurieux</a>
+<a href="/contrat/contratGrandGite.pdf" target="_blank">ici pour le gîte de l'Ecurieux</a>
  et 
-<a href="/images/contratPetitGite.pdf" target="_blank"> là pour le gîte saint Evence</a>
+<a href="/contrat/contratPetitGite.pdf" target="_blank"> là pour le gîte saint Evence</a>
 
 
 
