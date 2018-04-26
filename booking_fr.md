@@ -6,19 +6,20 @@ lang: fr
 ---
 
 
-Vous pouvez réserver vos séjours, contactez nous par mail ou téléphone!!
+Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou réservez instantanément sur airbnb!!
 
+Disponibilités:
+--------------
 
- 
-<a href= " https://calendar.yahoo.com/s267pfjjvegd4hmv5crflpsz3hcxhhud6zbl36ir/ae8af8efd755f161ad14709c669a3865?od=258" target="_blank">Disponibilités du gîte de l'Ecurieux (15 places)</a>
+<iframe src="https://calendar.google.com/calendar/embed?src=bocv0hl2pp4ahr2qonpcfnt7u0%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
+<br>
 
-<a href="https://calendar.yahoo.com/s267pfjjvegd4hmv5crflpsz3hcxhhud6zbl36ir/1c84eab7875d5db239b981749ef0f209?od=257" target="_blank">Disponibilités du gîte Saint Evence (8 places)</a>
+<iframe src="https://calendar.google.com/calendar/embed?src=d32cgtqemgtq4d5qfj8heat4rk%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 TARIFS
-===========================================================
-
+--------------------
 
 Les tarifs dépendent de votre besoin et de la période.
 
