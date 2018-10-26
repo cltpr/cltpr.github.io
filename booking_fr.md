@@ -8,7 +8,6 @@ lang: fr
 
 Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou réservez instantanément sur airbnb!!
 
-<!--
 
 Disponibilités:
 --------------
@@ -19,7 +18,6 @@ Disponibilités:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=d32cgtqemgtq4d5qfj8heat4rk%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
--->
 
 TARIFS
 --------------------
