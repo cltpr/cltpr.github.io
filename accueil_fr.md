@@ -52,7 +52,7 @@ Pour des plus grosses courses, vous pouvez aller:
 
 #GESTION DES TOILETTES SECHES
 
-Respectez bien les consignes affichées dans les toilettes.
+Respectez bien les consignes affichées dans les toilettes. Surtout, ne pas mettre de choses non compostables dans les seaux (pas de lingettes ni de tampons ou serviettes hygiéniques!!!)
 
 Si vous souhaitez vous construire des toilettes sèches, Pierre vous donnera un coup de main, n'hésitez pas!!
 
@@ -72,19 +72,18 @@ Nous sommes connectés en WIMAX, soyez indulgents, le débit est de maximum 10 M
 
 #GESTION DES DECHETS
 
-Vous disposez de cinq poubelles à la cuisine. Et oui, il faut ça!!!
+Vous disposez de quatre poubelles à la cuisine.
 
 Vous avez:
 
-- le petite poubelle verte pour les déchets de cuisine, qui sera donnée aux poules : épluchures, coquilles d'oeufs, marc de café, filtres en papier, pain, laitages, croûtes de fromages, fanes de légumes, fruits et légumes abîmés, légumes ou viandes cuits.
+- une poubelle pour les déchets de cuisine, qui sera donnée aux poules : épluchures, coquilles d'oeufs, marc de café, filtres en papier, pain, laitages, croûtes de fromages, fanes de légumes, fruits et légumes abîmés, légumes ou viandes cuits.
 
-- une poubelle pour le verre. Vous pouvez la vider quand elle est pleine dans la grande poubelle sous le hangar. Ne mettez pas de verre cassé SVP.
+- une poubelle pour le verre. Vous pouvez la vider quand elle est pleine dans la grande poubelle sous le hangar (pour le gîte 15 places) ou dans le bac bleu dans l'écurie (pour le gîte 8 places). Ne mettez pas de verre cassé SVP. Si vous voulez aller au container vous même, il est à 300 mètre en direction de Triaucourt (prendre tout droit au stop en haut du village)
 
 - une poubelle pour les bouteilles en plastiques (ne pas mettre de plastiques qui ne sont pas des bouteilles SVP), les canettes en fer blanc, les briques alimentaires, les cartons et papiers. Attention c'est pour le recyclage. Vous pouvez la vider dans la poubelle au couvercle jaune, au bord de la route.
 
-- une poubelle pour les autres plastiques (pots de yaourt, emballages divers, etc...). Vous pouvez la vider dans la poubelle grise sous le hangar.
 
-- une poubelle inox pour tout ce qui ne rentre pas dans les catégories du dessus. Normalement il n'y a pas grand chose!!! Exemple: capsules, couvercles des bocaux, verre cassé, couches bébé.
+- une poubelle pour tout ce qui ne rentre pas dans les catégories du dessus. Normalement il n'y a pas grand chose!!! Exemple: capsules, couvercles des bocaux, verre cassé, couches bébé.
 
 #EN FIN DE SEJOUR
 
