@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nous
+permalink: /about/
 link: about
 lang: fr
 ---

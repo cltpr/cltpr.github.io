@@ -1,11 +1,9 @@
 ---
 layout: page
-permalink: /accueil/
-link: accueil
 lang: fr
 ---
 
-##BIENVENUE AU GITE DE L'ECURIEUX
+##BIENVENUE A LA FERME DE L'ECURIEUX
 
 Voici quelques pages pour vous aider à passer un séjour agréable!!
 
