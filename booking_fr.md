@@ -24,20 +24,20 @@ TARIFS
 
 Les tarifs dépendent de votre besoin et de la période.
 
-Exemples:
+- nuit en semaine* hors vacances: 55 euros
+- nuit en semaine* en vacances, toutes zones: 70 euros
+- nuit de weekend ou jours fériés et ponts: 95 euros
+- à ajouter pour chaque séjour: 80 euros de frais de préparation du gîte
+- taxe de séjour à prévoir = 0,80€ par jour et par personne (sauf moins de 18 ans). Pour le grand gîte: 0,70. Nous contacter pour cela.
+- si vous n'amenez pas vos draps: 5 euros par lit (drap housse, drap, taie)
+- si vous voulez du linge de toilettes: 2 euros par personne (serviette, gant de toilette)
+- participation pour utiliser le spa pour le petit gîte: 40 euros pour un week end (eau changée et bois à volonté)
+- normalement, on ne loue pas pour une seule nuit, mais on peut en discuter au téléphone:):)
 
-- 1 semaine dans un des gîtes en période de vacances scolaires: 490 euros
-- 1 week end (deux nuits) dans un  gîte en période de vacances scolaires: 350 euros
-- 1 week end dans le gîte hors vacances scolaires: 270 euros
-- 1 nuit en semaine hors vacances scolaires ou grands weekends: 55 euros (du lundi soir au vendredi matin) 
+* lundi, mardi, mercredi et jeudi soir, sauf ponts, jours fériés et veilles de jour férié
 
 
 
-Le ménage est toujours compris, nous préférons le faire nous même et vous épargner la tâche (il y a 200m2 à nettoyer dans le grand gîte, 110 dans le petit...)
-
-Nous pouvons vous fournir les draps et faire vos lits si besoin, une participation de 8 euros par lit sera demandée, 5 euros si vous faites vos lits vous même avec nos draps. Si vous amenez vos draps, les lits ont tous un protége matelas, un oreiller (deux pour les lits double) avec housse, une couverture (ou couette), un couvre lit (ou housse de couette).
-
-Si vous avez besoin de linge de toilette, comptez 2 euros par personne (grande serviette, gant de toilette)
 
 
 Si vous préférez, nous sommes aussi présents sur le site AIRBNB.
