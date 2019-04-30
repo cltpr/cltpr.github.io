@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Booking
+permalink: /booking/
 lang: en
 ---
 

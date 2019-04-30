@@ -34,7 +34,7 @@ Les tarifs dépendent de votre besoin et de la période.
 - participation pour utiliser le spa pour le petit gîte: 40 euros pour un week end (eau changée et bois à volonté)
 - normalement, on ne loue pas pour une seule nuit, mais on peut en discuter au téléphone:):)
 
-* lundi, mardi, mercredi et jeudi soir, sauf ponts, jours fériés et veilles de jour férié
+*   lundi, mardi, mercredi et jeudi soir, sauf ponts, jours fériés et veilles de jour férié
 
 
 
