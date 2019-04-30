@@ -24,8 +24,8 @@ TARIFS
 
 Les tarifs dépendent de votre besoin et de la période.
 
-- nuit en semaine* hors vacances: 55 euros
-- nuit en semaine* en vacances, toutes zones: 70 euros
+- nuit en semaine(1) hors vacances: 55 euros
+- nuit en semaine(1) en vacances, toutes zones: 70 euros
 - nuit de weekend ou jours fériés et ponts: 95 euros
 - à ajouter pour chaque séjour: 80 euros de frais de préparation du gîte
 - taxe de séjour à prévoir = 0,80€ par jour et par personne (sauf moins de 18 ans). Pour le grand gîte: 0,70. Nous contacter pour cela.
@@ -34,7 +34,7 @@ Les tarifs dépendent de votre besoin et de la période.
 - participation pour utiliser le spa pour le petit gîte: 40 euros pour un week end (eau changée et bois à volonté)
 - normalement, on ne loue pas pour une seule nuit, mais on peut en discuter au téléphone:):)
 
-*   lundi, mardi, mercredi et jeudi soir, sauf ponts, jours fériés et veilles de jour férié
+(1): lundi, mardi, mercredi et jeudi soir, sauf ponts, jours fériés et veilles de jour férié
 
 
 
