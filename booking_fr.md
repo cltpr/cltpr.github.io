@@ -2,8 +2,10 @@
 layout: page
 title: Réservation
 permalink: /booking/
-
+link: booking
+lang: fr
 ---
+
 
 
 Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou réservez instantanément sur airbnb!!
