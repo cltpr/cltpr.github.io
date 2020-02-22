@@ -8,7 +8,7 @@ lang: fr
 ---
 Le gîte Saint Evence (du nom du saint patron de la commune) est un meublé de tourisme classé 3 étoiles.
 
-Ce logement peut accueillir 8 personnes et dispose d'un jardin privatif et  d'une grande terrasse ensoleillée. Il compte trois chambres, deux salles de bains et un grand séjour.
+Ce logement peut accueillir 10 personnes et dispose d'un jardin privatif et  d'une grande terrasse ensoleillée. Il compte trois chambres, deux salles de bains et un grand séjour.
 
 Vous trouverez dans le jardin un bain nordique bouillonant, chauffé au bois bien sûr!!
 
@@ -29,13 +29,17 @@ La cuisine:
 ![](/images/petitGite/20160915_cuisine2.jpg )
 ![](/images/petitGite/20160915_cuisine3.jpg )
 
-La chambre parentale:
+La première chambre::
 
-![](/images/petitGite/20160816_lit2places.jpg )
+![](/images/petitGite/premiereChambre.jpg )
+
+![](/images/petitGite/premiereChambre2.jpg )
 
 La petite chambre:
 
-![](/images/petitGite/20160816_litsJumeaux.jpg )
+![](/images/petitGite/petiteChambre.jpg )
+
+![](/images/petitGite/petiteChambre2.jpg )
 
 La grande chambre:
 
