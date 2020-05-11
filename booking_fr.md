@@ -24,22 +24,24 @@ Disponibilités:
 TARIFS
 --------------------
 
-Les tarifs dépendent de votre besoin et de la période.
+Gîte Saint Evence (10 places)
 
-- nuit en semaine(1) hors vacances: 55 euros
-- nuit en semaine(1) en vacances, toutes zones: 70 euros
-- nuit de weekend ou jours fériés et ponts: 95 euros
-- à ajouter pour chaque séjour: 80 euros de frais de préparation du gîte
+- tarif à la nuit: 125 euros
+- participation pour utiliser le spa: 40 euros pour un week end (eau changée et bois à volonté)
 - taxe de séjour à prévoir = 0,80€ par jour et par personne (sauf moins de 18 ans). Pour le grand gîte: 0,70. Nous contacter pour cela.
-- si vous n'amenez pas vos draps: 5 euros par lit (drap housse, drap, taie)
+
+Gîte de l'Ecurieux (15 places)
+
+- tarif à la nuit: 105 euros
+- taxe de séjour à prévoir = 0,70€ par jour et par personne (sauf moins de 18 ans). Nous contacter pour cela.
+
+Pour les deux gîtes:
+
+
+- à ajouter pour chaque séjour: 80 euros de frais de préparation du gîte
 - si vous voulez du linge de toilettes: 2 euros par personne (serviette, gant de toilette)
-- participation pour utiliser le spa pour le petit gîte: 40 euros pour un week end (eau changée et bois à volonté)
+- si vous n'amenez pas vos draps: 9 euros par lit (drap housse, drap, taie)
 - normalement, on ne loue pas pour une seule nuit, mais on peut en discuter au téléphone:):)
-
-(1): lundi, mardi, mercredi et jeudi soir, sauf ponts, jours fériés et veilles de jour férié
-
-
-
 
 
 Si vous préférez, nous sommes aussi présents sur le site AIRBNB.
