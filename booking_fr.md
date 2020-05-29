@@ -26,13 +26,13 @@ TARIFS
 
 Gîte Saint Evence (10 places)
 
-- tarif à la nuit: 125 euros
+- tarif à la nuit: 130 euros, moitié prix à compter de la 3ème nuit (65 euros)
 - participation pour utiliser le spa: 40 euros pour un week end (eau changée et bois à volonté)
-- taxe de séjour à prévoir = 0,80€ par jour et par personne (sauf moins de 18 ans). Pour le grand gîte: 0,70. Nous contacter pour cela.
+- taxe de séjour à prévoir = 0,80€ par jour et par personne (sauf moins de 18 ans). Nous contacter pour cela.
 
 Gîte de l'Ecurieux (15 places)
 
-- tarif à la nuit: 105 euros
+- tarif à la nuit: 110 euros, moitié prix à compter de la 3ème nuit (55 euros)
 - taxe de séjour à prévoir = 0,70€ par jour et par personne (sauf moins de 18 ans). Nous contacter pour cela.
 
 Pour les deux gîtes:
