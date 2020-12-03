@@ -87,8 +87,6 @@ image à venir....
 
 Nous mettons à votre disposition le maximum d'équipements afin que vous ne manquiez de rien. Voici une liste pour résumer:
 
-- réseau wifi
-
 - lave linge, sèche linge, lave vaisselle
 
 - four, four micro-ondes, 4 plaques de cuisson
