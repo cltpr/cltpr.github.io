@@ -13,8 +13,11 @@ Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou rés
 
 Disponibilités:
 --------------
-
+[comment]: <> (
 <iframe src="https://calendar.google.com/calendar/embed?src=bocv0hl2pp4ahr2qonpcfnt7u0%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+)
+
+
 
 <br>
 
