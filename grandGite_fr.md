@@ -7,6 +7,8 @@ link: presentation
 lang: fr
 ---
 
+Gîte fermé actuellement pour cause de travaux 
+=============================================
 
 Le grand gîte peut accueillir jusque 15 personnes. Il dispose de 3 grandes chambres, et de deux salons avec canapé convertible. Sa grande cour et son jardin privatifs vous permettront de profiter du soleil, du calme et du grand air.
 
