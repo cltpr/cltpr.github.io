@@ -1,16 +1,18 @@
 ---
 
 layout: page
-title: Gîte Saint Evence
+title: Gîte
 permalink: /petitGite/
 link: petitGite
 lang: fr
 ---
-Le gîte Saint Evence (du nom du saint patron de la commune) est un meublé de tourisme classé 3 étoiles.
+Le gîte de l'Ecurieux est un meublé de tourisme classé 3 étoiles.
 
 Ce logement peut accueillir 10 personnes et dispose d'un jardin privatif et  d'une grande terrasse ensoleillée. Il compte trois chambres, deux salles de bains et un grand séjour.
 
-Vous trouverez dans le jardin un bain nordique bouillonant, chauffé au bois bien sûr!!
+Si besoin, trois chambres peuvent être ajoutées pour arriver à une capacité de 15 personnes.
+
+Vous trouverez dans le jardin un bain nordique, chauffé au bois bien sûr!!
 
 Voici quelques photos:
 
@@ -64,7 +66,7 @@ Le terrain de boules communal, à 50 mètres:
 photo bientôt dispo!!!!
 
 
-Le spa familial et écologique, ou bain nordique, éclairage de couleur et machine à bulle!!
+Le spa familial et écologique, ou bain nordique, chauffé au bois!!
 
 ![](/images/petitGite/spa.jpg )
 
