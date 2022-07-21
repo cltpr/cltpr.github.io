@@ -20,9 +20,9 @@ La terrasse:
 
 ![](/images/petitGite/20160915_terrasse.jpg )
 
-Le salon:
+[comment]:<> Le salon:
 
-![](/images/petitGite/20160816_salon.jpg )
+[comment]:<> ![](/images/petitGite/20160816_salon.jpg )
 
 La cuisine:
 
@@ -35,13 +35,13 @@ La première chambre::
 
 ![](/images/petitGite/premiereChambre.jpg )
 
-![](/images/petitGite/premiereChambre2.jpg )
+[comment]:<>![](/images/petitGite/premiereChambre2.jpg )
 
 La petite chambre:
 
 ![](/images/petitGite/petiteChambre.jpg )
 
-![](/images/petitGite/petiteChambre2.jpg )
+[comment]:<>![](/images/petitGite/petiteChambre2.jpg )
 
 La grande chambre:
 
