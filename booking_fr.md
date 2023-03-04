@@ -14,8 +14,7 @@ Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou rés
 Disponibilités:
 --------------
 
-<a href="https://calendar.proton.me/api/calendar/v1/url/XLxTz1GX-F-GNPlq0T8uHcLTBzlTc_O8s8-JwTxGlEmPJ_jIhXOonA1WPe8L94PEJmmhpM-coy43-xZ6Kv-cYg==/calendar.ics?CacheKey=1FmjGE3KhR8Ym5f2IUSC9A%3D%3D" target="_blank">Cliquez sur ce lien pour voir le calendrier</a>
-
+Allez voir <a href="https://www.airbnb.fr/rooms/23445162?source_impression_id=p3_1677950169_foZD3M6K5WxsmGqp" target="_blank">ici</a> pour vérifier la disponibilité
 
 
 
