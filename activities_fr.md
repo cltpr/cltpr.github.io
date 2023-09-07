@@ -20,8 +20,7 @@ La forêt argonnaise, comptant nombre de vallées et d'étangs, saura vous surpr
 
 
 
--<a href="http://anesartgonne.free.fr/index.html" target="_blank">Anes Art'gonne</a> (à 300 mètres...)
-=============================
+
 
 
 
