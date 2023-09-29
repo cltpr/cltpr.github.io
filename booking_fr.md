@@ -14,8 +14,7 @@ Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou rés
 Disponibilités:
 --------------
 
-
-Pour vérifier nos disponibiltés, appelez nous!
+Allez voir <a href="https://www.airbnb.fr/rooms/23445162?source_impression_id=p3_1677950169_foZD3M6K5WxsmGqp" target="_blank">ici</a> pour vérifier la disponibilité
 
 
 
@@ -33,7 +32,7 @@ TARIFS
 
 Si vous préférez, nous sommes aussi présents sur le site AIRBNB.
 
-Pour information, vous pouvez visualiser notre contrat de location <a href="/contrat/2023-PG-.pdf" target="_blank">ici</a>.
+Pour information, vous pouvez visualiser notre contrat de location <a href="/contrat/contratPetitGite.pdf" target="_blank">ici</a>.
 
 
 
