@@ -32,7 +32,7 @@ TARIFS
 
 Si vous préférez, nous sommes aussi présents sur le site AIRBNB.
 
-Pour information, vous pouvez visualiser notre contrat de location <a href="/contrat/contratPetitGite.pdf" target="_blank">ici</a>.
+Pour information, vous pouvez visualiser notre contrat de location <a href="/contrat/2023-PG-.pdf" target="_blank">ici</a>.
 
 
 
