@@ -31,7 +31,6 @@ TARIFS
 - taxe de séjour à prévoir = 0,80€ par jour et par personne (sauf moins de 18 ans). Nous contacter pour cela.
 - normalement, on ne loue pas pour une seule nuit, mais on peut en discuter au téléphone:):)
 
-Si vous préférez, nous sommes aussi présents sur le site AIRBNB.
 
 Pour information, vous pouvez visualiser notre contrat de location <a href="/contrat/2023-PG-.pdf" target="_blank">ici</a>.
 
