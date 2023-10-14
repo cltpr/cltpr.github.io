@@ -13,7 +13,6 @@ Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou rés
 Utilisez notre bouton de réservation directe pour éviter de payer les commissions des plates formes!!!! Uniquement 3% de commission, et juste sur l'acompte!!!
 
 
-Allez voir <a href="https://www.airbnb.fr/rooms/23445162?source_impression_id=p3_1677950169_foZD3M6K5WxsmGqp" target="_blank">ici</a> pour vérifier la disponibilité
 
 
 <div id="ConstellationButtonContainer06793d60-aa77-4456-82f9-1e282daab00b" style="width:100%; text-align:center;" title="Ferme de l&#39;Ecurieux" data-id-projet='06793d60aa77445682f91e282daab00b'>Chargement en cours...</div><script type="text/javascript" src="https://reservation.elloha.com/Scripts/widget-loader.min.js?v=42"></script><script type="text/javascript">var constellationWidgetUrl06793d60aa77445682f91e282daab00b, constellationTypeModule06793d60aa77445682f91e282daab00b; constellationWidgetUrl06793d60aa77445682f91e282daab00b = 'https://reservation.elloha.com/Widget/BookingButton/06793d60-aa77-4456-82f9-1e282daab00b?idoi=4dc86106-0a4b-41af-ba35-56f89c1f59ab&culture=fr-FR'; constellationTypeModule06793d60aa77445682f91e282daab00b=3; constellationBookingButtonLoad('ConstellationButtonContainer06793d60-aa77-4456-82f9-1e282daab00b');</script>
