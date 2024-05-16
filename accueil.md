@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Un peu de lecture pour votre séjour:
 link: accueil
 lang: fr
 ---
@@ -14,8 +13,8 @@ Vous pouvez vous garer le long de la maison et le long du jardin, sur l'herbe au
 Voici les types de poubelles: 
 - petite noire pour les déchets alimentaires, pour les poules. Vous pouvez la vider au poulailler 
 - petite noire pour le verre. Vous pouvez la vider dans la carriole qui est dans l'écurie, en entrant à gauche. Pas de verre cassé s'il vous plaît. 
-- tri (la liste de ce qu'on y met est sur la fiche cartonnée posée dessus). Vous pouvez la vider dans la poubelle jaune, qui est au bord de la route ou dans la cour de l'autre coté de la maison. 
-- La grande poubelle inox à coté de la cheminée : tout le reste, mais normalement pas grand chose (le verre cassé va là)!!! Vous pouvez jeter les sacs pleins dans la poubelle rouge, qui est au bord de la route ou dans la cour de l'autre coté de la maison. 
+- petite noire pour le tri (la liste de ce qu'on y met est sur la fiche cartonnée posée dessus). Vous pouvez la vider dans la poubelle jaune, qui est au bord de la route ou dans la cour de l'autre coté de la maison. 
+- grande poubelle inox à coté de la cheminée : tout le reste, mais normalement pas grand chose (le verre cassé va là)!!! Vous pouvez jeter les sacs pleins dans la poubelle rouge, qui est au bord de la route ou dans la cour de l'autre coté de la maison. 
 
 
 # Lave-vaisselle 
