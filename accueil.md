@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Un peu de lecture pour votre séjour:
 link: accueil
 lang: fr
