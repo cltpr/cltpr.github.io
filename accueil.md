@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Un peu de lecture pour votre séjour:
 link: accueil
 lang: fr
