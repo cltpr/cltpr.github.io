@@ -4,6 +4,8 @@ link: accueil
 lang: fr
 ---
 
+Quelques éléments:
+
 ## Votre arrivée 
 
 Vous pouvez vous garer le long de la maison et le long du jardin, sur l'herbe au bord de la route. Il y a de la place pour 6 voitures. Ne pas bloquer le chemin entre le jardin et la maison du voisin s'il vous plaît. Entrez dans le jardin par la porte en bois. A gauche de la terrasse, vous avez une porte métallique d'écurie. Attention la petite descente pour y arriver est glissante si c'est mouillé. Il y a un cadenas-coffre sur la porte. Le code est la date de votre arrivée (jjmm) La clé ouvre la porte fenêtre de la terrasse. Entrez et installez vous, bienvenue!!! 

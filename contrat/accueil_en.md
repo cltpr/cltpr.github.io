@@ -4,6 +4,8 @@ link: accueil
 lang: en
 ---
 
+Some information:
+
 ## Arrival
 
 You can park alongside the house and along the garden, on the grass next to the road. There is room for 6 cars. Please don't block the path between the garden and the neighbor's house. Enter the garden through the wooden gate. To the left of the terrace, you have a metal stable door. Be careful, the short descent to get there is slippery if it's wet. There is a safe padlock on the door. The code is the date of your arrival (ddmm) The key opens the patio door to the terrace. Come in and settle in, welcome!!!
