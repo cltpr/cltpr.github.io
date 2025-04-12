@@ -6,11 +6,17 @@ link: booking
 lang: fr
 ---
 
+
+
 Vous pouvez réserver vos séjours, contactez nous par mail, téléphone ou réservez sur airbnb, booking ou abritel (attention c'est plus cher en raison de la commission)!!
 
 Utilisez notre bouton de réservation directe pour éviter de payer les commissions des plates formes!!!! La sécurité des transactions est assurée par notre partenaire ELLOHA.
 
-<div id="ConstellationButtonContainer540a0f30-168b-4850-9c98-c9a3108b95dd" style="width:100%; text-align:center;" title="Ferme de l&#39;Ecurieux" data-id-projet='540a0f30168b48509c98c9a3108b95dd'>Chargement en cours...</div><script type="text/javascript" src="https://reservation.elloha.com/Scripts/widget-loader.min.js?v=42"></script><script type="text/javascript">var constellationWidgetUrl540a0f30168b48509c98c9a3108b95dd, constellationTypeModule540a0f30168b48509c98c9a3108b95dd; constellationWidgetUrl540a0f30168b48509c98c9a3108b95dd = 'https://reservation.elloha.com/Widget/BookingButton/540a0f30-168b-4850-9c98-c9a3108b95dd?idoi=4dc86106-0a4b-41af-ba35-56f89c1f59ab&culture=fr-FR'; constellationTypeModule540a0f30168b48509c98c9a3108b95dd=3; constellationBookingButtonLoad('ConstellationButtonContainer540a0f30-168b-4850-9c98-c9a3108b95dd');</script>
+
+
+<center>
+<a href="https://reservation.elloha.com/?IdPublication=6ccd8428-6154-4700-8492-3b21e8a6eb1c&culture=fr-FR&idoi=4dc86106-0a4b-41af-ba35-56f89c1f59ab&searchFirstAvailableDates=1" target="_blank">Cliquez ici pour réserver et bénéficier des meilleurs tarifs !!!!</a>
+</center>
 
 TARIFS
 --------------------
