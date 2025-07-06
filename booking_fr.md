@@ -25,7 +25,8 @@ TARIFS
 - tarif à la nuit: 120 euros, moitié prix à compter de la 3ème nuit (60 euros)
 - participation pour utiliser le spa: 50 euros pour un week end (eau changée et bois à volonté)
 - à ajouter pour chaque séjour: 80 euros de frais de préparation du gîte
-- si vous n'amenez pas vos draps: 5 euros par lit (drap housse, drap, taie), lits non faits, 10 euros lits faits.
+- ajout de trois chambres supplémentaires : 30 euros par nuit.
+- si vous n'amenez pas vos draps: 10 euros par lit (drap housse, drap, taie), lits non faits.
 - taxe de séjour à prévoir = 0,88€ par jour et par personne (sauf moins de 18 ans). Nous contacter pour cela.
 - normalement, on ne loue pas pour une seule nuit, mais on peut en discuter au téléphone:):)
 

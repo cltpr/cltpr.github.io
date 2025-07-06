@@ -10,7 +10,7 @@ Le gîte de l'Ecurieux est un meublé de tourisme classé 3 étoiles.
 
 Ce logement peut accueillir 10 personnes et dispose d'un jardin privatif et  d'une grande terrasse ensoleillée. Il compte trois chambres, deux salles de bains et un grand séjour.
 
-Si besoin, trois chambres peuvent être ajoutées pour arriver à une capacité de 15 personnes.
+Si besoin, trois autres chambres peuvent être ajoutées pour arriver à une capacité de 15 personnes.
 
 Vous trouverez dans le jardin un bain nordique, chauffé au bois bien sûr!!
 
