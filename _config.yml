@@ -15,7 +15,7 @@ description:  # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://ferme-de-l-ecurieux.fr" # the base hostname & protocol for your site
+url: "https://ferme-de-l-ecurieux.fr" # the base hostname & protocol for your site
 
 index:
   en: index_en.html
@@ -30,10 +30,6 @@ github_username:
 markdown: kramdown
 
 
-#message: "<noscript><img src="http://www.fillmurray.com/400/300" alt="Bill Murray"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://www.fillmurray.com/400/300" alt="Bill Murray" class="lazyload fade-in">\r\n\r\n“It's hard to be an artist. It's hard to be anything. It's hard to be.”"
-message: "test de message"
-
-name: Bill Murray
 #email: b0caa2a71f5066b3d90711c224578c21
 url: ''
 hidden: ''
